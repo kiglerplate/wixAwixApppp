@@ -22,7 +22,9 @@ export default function App() {
   return (
     <div className={styles.index}>
       <div className={styles.content}>
-        <h1 className={styles.heading}>A short heading about [your app]</h1>
+        <h1 className={styles.heading}>
+          Shopify Remix App with Cloudflare Workers
+        </h1>
         <p className={styles.text}>
           A tagline about [your app] that describes your value proposition.
         </p>
