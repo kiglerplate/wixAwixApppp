@@ -26,7 +26,7 @@ export default function App() {
           Shopify Remix App with Cloudflare Workers
         </h1>
         <p className={styles.text}>
-          A tagline about [your app] that describes your value proposition.
+          A tagline abocut [your app] that describes your value proposition.
         </p>
         {showForm && (
           <Form className={styles.form} method="post" action="/auth/login">
